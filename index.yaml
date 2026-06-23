@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ecom-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-06-23T05:15:55.479858751Z"
+    description: Production-style 3-service app deployment on Kubernetes
+    digest: 3ac5cb079079de961050c3972f6bf40fb21c4860a3acdda0463472682b3d222f
+    name: ecom-chart
+    type: application
+    urls:
+    - https://pavanks618.github.io/helm-charts/ecom-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-23T05:15:55.477193508Z"
